@@ -2,9 +2,9 @@
 
 ##### Code for my peer-reviewed publication on automating a clinical test for identifiying elderly people at risk of falling using machine vision: [Automating TUG Test Repository](https://github.com/plizeeee/Automation-of-Fall-Detection-Test-For-Elderly-People-Using-Machine-Vision)
 
-##### My NLP project for jointly predicting review helpfulness and 5-star rating: [Amazon Review Prediction Project Repository](https://github.com/plizeeee/NLP-Amazon-Reviews-Project)
+##### My NLP project for jointly predicting the helpfulness and 5-star rating of Amazon reviews: [Amazon Review Prediction Project Repository](https://github.com/plizeeee/NLP-Amazon-Reviews-Project)
 
-##### My code and report for predicting life outcomes of Fragile Families Challenge: [Fragile Families Challenge Repository](https://github.com/plizeeee/Fragile-Families-Challenge)
+##### My code and report for predicting life outcomes of the Fragile Families Challenge: [Fragile Families Challenge Repository](https://github.com/plizeeee/Fragile-Families-Challenge)
 
 ##### My project analyzing various trends during the Covid-19 pandemic using various APIs and public datasets: [Covid-19 Pandemic Trends Analysis Repository](https://github.com/plizeeee/Covid-19-Pandemic-Analysis)
 
