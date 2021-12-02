@@ -4,7 +4,7 @@
 
 ##### My NLP project for jointly predicting the helpfulness and 5-star rating of Amazon reviews: [Amazon Review Prediction Project Repository](https://github.com/plizeeee/NLP-Amazon-Reviews-Project)
 
-##### My code and report for predicting life outcomes of vulnerable families from the Fragile Families Challenge: [Fragile Families Challenge Repository](https://github.com/plizeeee/Fragile-Families-Challenge)
+##### My code and report for predicting life outcomes of vulnerable families from the Fragile Families Challenge: [Fragile Families Challenge Repository](https://github.com/plizeeee/Fragile-Families-Challenge-Project)
 
 ##### My project analyzing various trends during the Covid-19 pandemic using various APIs and public datasets: [Covid-19 Pandemic Trends Analysis Repository](https://github.com/plizeeee/Covid-19-Pandemic-Analysis)
 
